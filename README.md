@@ -1,4 +1,4 @@
-### Welcome to my profile 👋
+**Welcome to my profile** 👋
 
 Here you can find my projects I fiddle with in my free time. It's mostly something with ML, embedded, compilers, automatization and tooling.
 
